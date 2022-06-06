@@ -1,4 +1,7 @@
-# Email-Bomber
+# ⚠️Email-Bomber⚠️
+``
+💀Not for educational purposes💀
+``
 ## Usage:
 ```
 git clone https://github.com/SHBBL/Email-Bomber.git
